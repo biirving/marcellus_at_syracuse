@@ -185,11 +185,6 @@ def part_one(t_map):
         cur_indicies = list(set(next_indices))
     return total_splits
 
-# class Tree:
-#     def __init__(self):
-#         self.parent = Tree()
-#         self.left = Tree()
-#         self.right = Tree()
 
 def part_two(t_map):
     start = t_map[0].index('S')
