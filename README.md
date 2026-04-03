@@ -1,2 +1,2 @@
 ## GET GOOD SON
-## BE BETTER TOMORROW
+# Scratchpad for codeforces, and advent of code
